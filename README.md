@@ -1,4 +1,4 @@
-### Hi I'm werifu (pronounced /welifuː/ or 「ヱリフ」（ウェリフ）)👋
+### Hi I'm werifu (pronounced /welifuː/ or 「ヱリフ」（ウェリフ）)👋, briefly wef.
 
 * I like trying new things.
 * I want to make programming easier.
